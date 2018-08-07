@@ -11,7 +11,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 
 - [Official](#official)
 - [Packages](#packages)
-- [Related](#related-lists)
+- [Related Lists](#related-lists)
 
 
 ## Official
