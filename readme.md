@@ -10,7 +10,8 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 ## Contents
 
 - [Official](#official)
-- [Packages](#packages)
+- [Projects](#projects)
+- [Plugins](#plugins)
 - [Related Lists](#related-lists)
 
 
@@ -24,9 +25,14 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 - [ok-mdx](https://github.com/jxnblk/ok-mdx) - Browser-based MDX editor.
+- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
+
+
+## Plugins
+
+- [inline-mdx](https://github.com/hamlim/inline-mdx.macro) - Babel [macro](https://github.com/kentcdodds/babel-plugin-macros) for transforming MDX inline.
 - [next-mdx](https://github.com/zeit/next-plugins/tree/master/packages/next-mdx) - MDX plugin for [Next.js](https://github.com/zeit/next.js).
 - [razzle-plugin-mdx](https://github.com/jaredpalmer/razzle/tree/master/packages/razzle-plugin-mdx) - MDX plugin for [Razzle](https://github.com/jaredpalmer/razzle).
-- [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 
 ## Related Lists
