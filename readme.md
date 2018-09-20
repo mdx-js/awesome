@@ -19,6 +19,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 
 - [Home](https://github.com/mdx-js/mdx) - Official repository.
 - [Spec](https://github.com/mdx-js/specification) - MDX language and abstract syntax tree definitions.
+- [Website](https://mdxjs.com) - Official MDX website.
 
 
 ## Projects
