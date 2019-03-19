@@ -28,6 +28,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [ok-mdx](https://github.com/jxnblk/ok-mdx) - Browser-based MDX editor.
 - [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 - [mdx-go](https://github.com/jxnblk/mdx-go) – Lightning fast MDX-based dev server for progressive documentation.
+- [mdx-blocks](https://github.com/jxnblk/mdx-blocks) - Wild new way to build websites.
 
 
 ## Plugins
