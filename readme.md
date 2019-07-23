@@ -12,6 +12,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [Official](#official)
 - [Projects](#projects)
 - [Plugins](#plugins)
+- [Talks](#talks)
 - [Related Lists](#related-lists)
 
 
@@ -41,6 +42,9 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for VSCode.
 - [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) - MDX integration for Gatsby.
 
+## Talks
+
+- [MDX: content for kings and princesses](https://github.com/DeveloperMode/mdx-fairy-tale)
 
 ## Related Lists
 
