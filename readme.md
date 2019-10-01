@@ -40,7 +40,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [razzle-plugin-mdx](https://github.com/jaredpalmer/razzle/tree/master/packages/razzle-plugin-mdx) - MDX plugin for [Razzle](https://github.com/jaredpalmer/razzle).
 - [eslint-plugin-mdx](https://github.com/azz/eslint-plugin-mdx) - ESLint Plugin for MDX.
 - [vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for VSCode.
-- [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) - MDX integration for Gatsby.
+- [gatsby-plugin-mdx](https://www.gatsbyjs.org/packages/gatsby-plugin-mdx) - MDX integration for Gatsby.
 
 ## Talks
 
