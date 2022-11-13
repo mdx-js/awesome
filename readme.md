@@ -31,6 +31,7 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [mdx-go](https://github.com/jxnblk/mdx-go) – Lightning fast MDX-based dev server for progressive documentation.
 - [mdx-blocks](https://github.com/jxnblk/mdx-blocks) - Wild new way to build websites.
 - [cssx](https://github.com/SaraVieira/cssx) - CSS in MDX.
+- [zoetic](https://github.com/kantord/zoetic) - MDX presentations with your webcam as the background
 
 
 ## Plugins
