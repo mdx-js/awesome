@@ -43,6 +43,9 @@ MDX is a JSX in Markdown loader, parser, and renderer for ambitious projects. It
 - [vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for VSCode.
 - [gatsby-plugin-mdx](https://www.gatsbyjs.org/packages/gatsby-plugin-mdx) - MDX integration for Gatsby.
 - [remark-mdx-math-enhanced](https://github.com/goodproblems/remark-mdx-math-enhanced) - MDX plugin enhancing math envs by adding support for embedded JS expressions
+- [remark-corebc](https://github.com/bchainhub/remark-corebc) - transforms Core Blockchain notations into markdown links
+- [remark-corepass](https://github.com/bchainhub/remark-corepass) - transform CorePass notations into markdown links
+- [remark-fediverse-user](https://github.com/bchainhub/remark-fediverse-user) — transform Fediverse user notations into markdown links
 
 ## Talks
 
