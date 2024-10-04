@@ -1,0 +1,27 @@
+{
+  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "bugs": "https://github.com/mdx-js/awesome/issues",
+  "contributors": [
+    "Titus Wormer <travis@transitivebullsh.it>"
+  ],
+  "description": "Curated list of awesome MDX resources",
+  "devDependencies": {
+    "remark-cli": "^12.0.0",
+    "remark-preset-wooorm": "^10.0.0"
+  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "awesome",
+  "private": true,
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-wooorm"
+    ]
+  },
+  "repository": "mdx-js/awesome",
+  "scripts": {
+    "format": "remark --frail --output --quiet -- .",
+    "test": "npm run format"
+  },
+  "version": "0.0.0"
+}
