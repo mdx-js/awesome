@@ -15,23 +15,25 @@ The best of both worlds.
 
 * [Official](#official)
 * [Projects](#projects)
-* [Plugins](#plugins)
 * [Related Lists](#related-lists)
 * [Contribute](#contribute)
 * [License](#license)
 
 ## Official
 
-* [Home](https://github.com/mdx-js/mdx) — Official repository.
-* [Website](https://mdxjs.com) — Official MDX website.
+* [Home](https://github.com/mdx-js/mdx) — Official repository with all our
+  packages.
+* [Website](https://mdxjs.com) — Official MDX website with all docs.
+* [Collective](https://github.com/unifiedjs/collective) - Collective governance
+  docs.
 
 ## Projects
 
+* [mdxjs-rs](https://github.com/wooorm/mdxjs-rs) — MDX in Rust.
+* [vscode-mdx](https://github.com/mdx-js/mdx-analyzer/tree/main/packages/vscode-mdx)
+  — Visual Studio Code extension to add language support for MDX.
 * [zoetic](https://github.com/kantord/zoetic) — MDX presentations with your
   webcam as the background
-
-## Plugins
-
 * [@next/mdx](https://github.com/vercel/next.js/tree/canary/packages/next-mdx)
   — MDX plugin for [Next.js](https://github.com/vercel/next.js).
 * [eslint-plugin-mdx](https://github.com/mdx-js/eslint-mdx) — ESLint
